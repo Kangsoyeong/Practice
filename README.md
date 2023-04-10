@@ -1,6 +1,4 @@
 # Practice
 
-conflict test in main.
+second branch
 line4
-line5
-line 6 in first.
