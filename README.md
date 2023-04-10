@@ -1,5 +1,4 @@
 # Practice
 
-first branch~ test
-
-~
+first branch.
+저장.
