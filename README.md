@@ -1,7 +1,5 @@
 # Practice
 
-clear
-PR line4
-third branch
-pull request.
-line7
+second branch
+line4
+line 5 in main
