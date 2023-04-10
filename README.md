@@ -1,4 +1,3 @@
 # Practice
 
-testing. hello?
-second line.
+testing.
