@@ -1,4 +1,3 @@
 # Practice
 
-first branch
-line4
+first branch.
